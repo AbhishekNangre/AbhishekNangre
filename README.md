@@ -7,18 +7,17 @@
 
 ## ⚡ Tech Stack  
 
-| 🚀 **Game Development** | 💻 **Programming & Web Development** |
+| 🚀 **Game Development** | 💻 **Web Development** |
 |---|---|
-| ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=flat&logo=unreal-engine&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-|  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-|  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-|  | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) |
+| ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=flat&logo=unreal-engine&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+|  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
-| 🛠 **Backend & Database** |  |
+| 💻 **Programming** | 🛠 **Backend & Database** |
 |---|---|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |  |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |  |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+
 
 ## 📊 GitHub Stats  
 | 🔥 **Activity** | 📌 **Languages Used** |
