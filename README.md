@@ -3,12 +3,11 @@
 🔍 Constantly learning, experimenting, and refining.  
 🎮 Working towards building AI-driven and immersive gaming worlds.  
  -- **Connect with me** --
+-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunqwb@gmail.com)  
 
--------------------------------|||-------------------------------
 
 ## ⚡ Tech Stack  
-
 🚀 **Game Development**  
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=flat&logo=unreal-engine&logoColor=white)  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
@@ -24,8 +23,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
--------------------------------|||-------------------------------
-
 ## 📊 GitHub Stats  
 
 | 🔥 **Activity** | 📌 **Languages Used** |
@@ -33,10 +30,7 @@
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karmaren&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true) |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karamren&show_icons=true&theme=dark&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=karmaren&theme=darkhub) |
 
--------------------------------|||-------------------------------
 # Flappy Bird Game
-
-
 Check out the **Flappy Bird Demo** and play the game!
  --- Click on the image below or here to [PLAY THE GAME](https://karmaren.github.io/flappy-birdy/) ---
  
