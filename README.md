@@ -23,10 +23,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ## 📊 GitHub Stats  
-
 | 🔥 **Activity** | 📌 **Languages Used** |
 |---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karamren&show_icons=true&theme=dark&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=karmaren&theme=darkhub) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karmaren&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karmaren&show_icons=true&theme=dark&hide_border=true) | |
 
 # Flappy Bird Game
 Check out the **Flappy Bird Demo** and play the game!
