@@ -17,7 +17,7 @@
 # Some of my projects
 
 ## 👾 ShiroBot - A Discord Bot in the Making 
-🔗 **GitHub Repository:** [ShiroBot](YOUR_REPO_LINK)  
+🔗 **GitHub Repository:** [ShiroBot](https://github.com/karmaren/Shiro)  
 ✅ **More features will be added soon!**
 💡 **Usage:** Use `/avatar`, `/embed`, `/rps` in a Discord server!  
 
