@@ -4,7 +4,6 @@
 
 # ⚡ Tech Stack  
 
-## ⚡ Tech Stack  
 
 | 🚀 **Game Development** | 💻 **Web Development** | 💻 **Programming** | 🛠 **Backend & Database** |
 |---|---|---|---|
