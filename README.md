@@ -1,7 +1,4 @@
 # 👋 Hey there, I'm Abhishek Nangre!  
-
-🔍 Constantly learning, experimenting, and refining.  
-🎮 Working towards building AI-driven and immersive gaming worlds.  
   **Connect with me** :
 || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunqwb@gmail.com)  ||
 
@@ -20,10 +17,14 @@
 
 
 ## 📊 GitHub Stats  
-| 🔥 **Activity** | 📌 **Languages Used** |
-|---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karmaren&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true)
 
+## Some of my projects
+
+# 👾 ShiroBot - A Discord Bot in the Making 
+🔗 **GitHub Repository:** [ShiroBot](YOUR_REPO_LINK)  
+✅ **More features will be added soon!**
+💡 **Usage:** Use `/avatar`, `/embed`, `/rps` in a Discord server!  
 
 # Flappy Bird Game
 Check out the **Flappy Bird Demo** and play the game!
