@@ -2,7 +2,7 @@
   **Connect with me** :
 || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunqwb@gmail.com)  ||
 
-## ⚡ Tech Stack  
+# ⚡ Tech Stack  
 
 | 🚀 **Game Development** | 💻 **Web Development** |
 |---|---|
@@ -16,17 +16,17 @@
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true)
 
-## Some of my projects
+# Some of my projects
 
-# 👾 ShiroBot - A Discord Bot in the Making 
+## 👾 ShiroBot - A Discord Bot in the Making 
 🔗 **GitHub Repository:** [ShiroBot](YOUR_REPO_LINK)  
 ✅ **More features will be added soon!**
 💡 **Usage:** Use `/avatar`, `/embed`, `/rps` in a Discord server!  
 
-# Flappy Bird Game
+## Flappy Bird Game
 Check out the **Flappy Bird Demo** and play the game!
  --- Click on the image below or here to [PLAY THE GAME](https://karmaren.github.io/flappy-birdy/) ---
  
