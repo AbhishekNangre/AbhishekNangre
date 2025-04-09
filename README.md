@@ -38,10 +38,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true" />
 </p>
-<h2 align="center">
-## Flappy Bird Game
-<h2>
+
+<h2 align="center"> Flappy Bird Game <h2>
+
+ <p alighn="center">
 Check out the **Flappy Bird Demo** and play the game!
  --- Click on the image below or here to [PLAY THE GAME](https://karmaren.github.io/flappy-birdy/) ---
- 
+ <p>
 [![Flappy Bird Gameplay](https://i.imgur.com/HzEITqk.gif)](https://karmaren.github.io/flappy-birdy/)  
