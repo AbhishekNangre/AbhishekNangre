@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<h2 align="center"> Flappy Bird Game <h2>
+<h2 align="center"> 🕹️ Flappy Bird Game <h2>
 
 
 Check out the **Flappy Bird Demo** and play the game!
