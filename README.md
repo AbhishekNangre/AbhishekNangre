@@ -11,8 +11,11 @@
 | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 |  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |  |  |
 
-# 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 # Some of my projects
 
