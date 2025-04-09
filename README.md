@@ -38,15 +38,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaren&layout=compact&theme=dark&hide_border=true" />
 </p>
-
-# Some of my projects
-
-## 👾 ShiroBot - A Discord Bot in the Making 
-🔗 **GitHub Repository:** [ShiroBot](https://github.com/karmaren/Shiro)  
-✅ **More features will be added soon!**
-💡 **Usage:** Use `/avatar`, `/embed`, `/rps` in a Discord server!  
-
+<p align="center">
 ## Flappy Bird Game
+<p>
 Check out the **Flappy Bird Demo** and play the game!
  --- Click on the image below or here to [PLAY THE GAME](https://karmaren.github.io/flappy-birdy/) ---
  
