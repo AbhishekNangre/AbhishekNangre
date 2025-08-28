@@ -3,4 +3,4 @@ If you see commits at 3 AM, don’t worry, that’s just me negotiating with bug
 
 Oh, and yes… I made a bird that refuses to fly properly(click on the img)
 
-[![Click on this to play ](https://i.imgur.com/HzEITqk.gif)](https://karmaren.github.io/flappy-birdy/)
+[![Click on this to play ](https://i.imgur.com/HzEITqk.gif)](https://abhisheknangre.github.io/flappy-birdy))
