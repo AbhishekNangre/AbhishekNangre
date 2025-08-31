@@ -9,6 +9,6 @@ Oh and yes… I made a bird that refuses to fly properly :(
 
 <p align="center">
 <a href="https://abhisheknangre.github.io/flappy-birdy">
-  <img src="assets/ezgif.com-video-to-gif-converter.gif" alt="Click on this to play" width="600"/>
+  <img src="assets/Flappy_birddy.gif" alt="Click on this to play" width="600"/>
 </a>
 </p>
