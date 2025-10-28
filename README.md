@@ -5,13 +5,13 @@ I make code, games, and write stuff sometimes.
 Half my projects are still on my laptop because I forgot to upload them,
 and the rest are half-finished and waiting for “future me” to fix them (good luck, future me).
 
-- Most nights I’m either:
+ Most nights I’m either:
 
 - fixing bugs I created,
 
 - reading comics/novels,
 
-- or getting destroyed in boss fights.
+- or getting destroyed in boss fights. (started elden ring 1 year ago)
 
 And yes… I once made a bird that refuses to fly properly.
 It’s still out there, disappointing me one frame at a time.
