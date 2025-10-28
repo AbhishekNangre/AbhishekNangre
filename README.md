@@ -1,5 +1,5 @@
 Hello 
-I’m still a student, still learning, and still messing with code to see what works (and what doesn’t). I talk to my computer more than to humans — sadly it mostly replies with errors.
+I’m still a student, still learning, and still messing with code to see if things works (mostly doesn't).
 
 I make code, games, and write stuff sometimes.
 Half my projects are still on my laptop because I forgot to upload them,
